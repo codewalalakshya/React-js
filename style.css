@@ -1,0 +1,31 @@
+#parent {
+    text-align: center;
+    color: blue;
+    border: 2px solid red;
+    margin: 34px;
+    padding: 23px;
+}   
+#child1 {
+    text-align: center;
+    color: blue;
+    border: 2px solid red;
+    margin: 34px;
+    padding: 23px;
+}       
+#child2 {
+    text-align: center;
+    color: blue;
+    border: 2px solid red;
+    margin: 34px;
+    padding: 23px;
+}
+#root1 {
+    text-align: center;
+    color: blue;
+    border: 2px solid red;
+    margin: 34px;
+    padding: 23px;
+}
+
+
+/*  <!-- how to creat element in react and add it to DOM     --> */
