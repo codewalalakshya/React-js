@@ -1,1 +1,1 @@
-# namste react insude it
+# namste react inside it
